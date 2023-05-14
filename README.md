@@ -1,7 +1,8 @@
 ### Olá, seja bem vindo!!!
 
-- 🔭 Estou a procura da primeira vaga na área
+- 🔭 Estou a procura da minha primeira vaga na área
 - 🌱 Sou desenvolvedor Front-end
+- 📘 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ateneu - 2/5
 
 <br>
 <div>
