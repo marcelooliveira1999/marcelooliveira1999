@@ -8,7 +8,7 @@
 <div>
   <a href="https://beacons.ai/marcelooliver" target="_blank" rel="noopener noreferrer" />
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=marcelooliveira1999&show_icons=true&theme=transparent" />
-  <img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooliveira1999&hide_progress=true&theme=transparent" />
+<!--   <img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooliveira1999&hide_progress=true&theme=transparent" /> -->
 </div>
 
 ##
