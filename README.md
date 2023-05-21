@@ -1,14 +1,19 @@
 ### Olá, seja bem vindo!!!
 
 - 🔭 Estou a procura da minha primeira vaga na área
-- 🌱 Sou desenvolvedor Front-end
+- 🌱 Sou Desenvolvedor Full Stack JavaScript
 - 📘 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ateneu - 2/5
+- 💎 alguns lemas que tenho comigo são:
+
+            >> "O sucesso é a soma de pequenos esforços repetidos diariamente."
+            >> "Nunca desista. Grandes coisas levam tempo."
+            >> "Para todo problema, existe uma solução. Persista."
+            >> "Sempre agradeça!"
 
 <br>
 <div>
   <a href="https://beacons.ai/marcelooliver" target="_blank" rel="noopener noreferrer" />
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=marcelooliveira1999&show_icons=true&theme=transparent" />
-<!--   <img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooliveira1999&hide_progress=true&theme=transparent" /> -->
 </div>
 
 ##
