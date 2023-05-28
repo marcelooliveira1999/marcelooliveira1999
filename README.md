@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo!!!
 
 - 🔭 Estou a procura da minha primeira vaga na área
-- 🌱 Sou Desenvolvedor Full Stack JavaScript
+- 🌱 Sou Desenvolvedor Web
 - 📘 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ateneu - 2/5
 - 💎 alguns lemas que tenho comigo são:
 
