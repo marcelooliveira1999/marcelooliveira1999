@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo!!!
 
-- 🌱 Sou Desenvolvedor Web
+- 🌱 Desenvolvedor Web
 - 📘 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ateneu - 2/5
 - 💎 alguns lemas que tenho comigo são:
 
