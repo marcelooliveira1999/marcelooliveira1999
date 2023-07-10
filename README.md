@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo!!!
 
 - 🌱 Desenvolvedor Web
-- 📘 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ateneu - 2/5
+- 📘 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Ateneu - 3/5
 - 💎 alguns lemas que tenho comigo são:
 
             >> "O sucesso é a soma de pequenos esforços repetidos diariamente."
