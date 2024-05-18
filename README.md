@@ -13,9 +13,9 @@ _Tenho experiência com JavaScript, me especializando na criação de APIs REST 
 
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=marcelooliveira1999&show_icons=true&theme=transparent" />
 
-## Experiência
+### Experiência
 
-### Desenvolvedor Back-end - GFT Credmais - Desde 2024/02
+#### Desenvolvedor Back-end - GFT Credmais - Desde 2024/02
 Trabalhando com:
 - JavaScript
 - Node
@@ -23,3 +23,4 @@ Trabalhando com:
 - PostgreSQL e SQL Server
 - Sequelize
 - Docker
+- Redis e Bull ( Background Jobs )
